@@ -1,2 +1,2 @@
 # First-lesson
-This is the first lesson assintment by Moringa school
+This is the first lesson assignment by Moringa school
